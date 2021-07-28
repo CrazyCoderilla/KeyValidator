@@ -10,5 +10,10 @@
 * [IllegalArgumentException при вводе длинного или короткого UUID](https://github.com/CrazyCoderilla/KeyValidator/issues/1)
 * [Некорректный результат валидации](https://github.com/CrazyCoderilla/KeyValidator/issues/2)
   
+## Описание процесса тестирования
+
+Тестовые данные взяты взяты из руководства пользователя:
+* https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
+  
 Тестирование производилось в следующем окружении:
 * Java 11
